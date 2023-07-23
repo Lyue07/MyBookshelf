@@ -5,12 +5,12 @@ body{
 
 }
 
-h2 {
+.title {
     margin-bottom: 0;
     text-align: center;
     font-family: "Poppins", sans-serif;
 }
-p {
+.author {
     margin-top: 10px;
     text-align: center;
     font-family: "Poppins", sans-serif;
